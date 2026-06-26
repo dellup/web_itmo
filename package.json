@@ -1,0 +1,11 @@
+{
+	"type": "module",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"busboy": "latest",
+		"cors": "latest",
+		"express": "latest"
+	}
+}
